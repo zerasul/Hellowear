@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notificaciones</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_notificacionclick">notificacionclick</string>
+    <string name="buttontext">Mostrar Notificacion</string>
+    <string name="mostrarnotificacionweb">Notificacion con Botón</string>
+    <string name="textobotongrande">Texto Grande</string>
+    <string name="chiquitofistrum">Lorem fistrum amatomaa se calle ustée llevame al sircoo no te digo trigo por no llamarte Rodrigor por la gloria de mi madre a peich de la pradera amatomaa amatomaa pecador. Al ataquerl diodeno caballo blanco caballo negroorl ese hombree torpedo al ataquerl a wan se calle ustée. Ese hombree no puedor jarl no puedor llevame al sircoo. La caidita hasta luego Lucas fistro ese hombree llevame al sircoo sexuarl a gramenawer. Va usté muy cargadoo llevame al sircoo llevame al sircoo va usté muy cargadoo. Amatomaa pecador ahorarr qué dise usteer diodeno va usté muy cargadoo diodenoo.</string>
+    <string name="textofondo">Notificacion con Fondo</string>
+    <string name="textobotonpaginas">Notificacion con 2 paginas</string>
+    <string name="textostack">Notificaciones apiladas</string>
+</resources>
