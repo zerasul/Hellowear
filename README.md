@@ -5,5 +5,6 @@ Repositorio con ejemplos para comenzar a desarrollar con Android Wear. Este repo
 
  - WearNotificationExample: Ejemplo donde se muestra el uso de notificaciones para Android Wear.
  - WearUIExample: Ejemplo donde se muestra como crear Interfaces de Usuario en aplicaciones nativas para Android Wear. En este ejemplo se han añadido 2 activity para probar la API de datos y la API de voz.
+ - Slides: Presentación en PDF
 
 Estos proyectos tienen licencia GPL y son de uso libre.
