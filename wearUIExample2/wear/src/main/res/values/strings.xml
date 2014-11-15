@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">wearUIExample</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="title_activity_activity_boxinset">box</string>
+    <string name="titulocard">Hola Titulo</string>
+    <string name="textocard">Antes, to esto era campo</string>
+    <string name="title_activity_confirmdialog">confirmdialog</string>
+    <string name="title_activity_voiceactivity">voiceactivity</string>
+    <string name="textoboton">Activar Voz</string>
+    <string name="mitexto">Pulsa boton para activar voz</string>
+    <string name="title_activity_datasync">datasyncActivity</string>
+    <string name="btnaumentar">aumentar</string>
+
+</resources>
